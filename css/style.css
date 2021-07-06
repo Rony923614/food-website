@@ -51,6 +51,7 @@ body {
 }
 
 /* ---------------First section CSS End Here --------------- */
+
 .secound-section {
     display: flex;
     margin-bottom: 60px;
@@ -132,7 +133,59 @@ body {
     font-weight: 900;
 }
 
-/* ---------------third  section CSS End Here Recipie-item --------------- */
+/* ---------------Third  section CSS End Here Recipie-item --------------- */
+
+.form-area {
+
+    text-align: center;
+    margin: auto;
+    margin-bottom: 150px;
+}
+
+.form-area h1 {
+    font-size: 50px;
+    font-weight: 900;
+    color: gray;
+}
+
+.email-area {
+    width: 42%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.first-name {
+    width: 20%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.last-name {
+    width: 20%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+textarea {
+    width: 42%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    resize: none;
+}
+
+
+/* ---------------------------------From Area Css End here-------------- */
+
+
+
 footer {
     text-align: center;
     margin: auto;
